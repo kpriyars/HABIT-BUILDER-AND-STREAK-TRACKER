@@ -24,6 +24,7 @@ An interactive tool developed to demonstrate persistent client-side storage and 
 1. Add a habit in the input field.
 2. Click **Done** daily to increase your streak.
 3. Refresh the page to see your data remain persistent!
+ 
 
 ---
 **Krishna Priya R S** 
